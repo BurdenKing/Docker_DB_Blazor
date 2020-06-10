@@ -1,0 +1,277 @@
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\SpeakerClient.blazor.config
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\SpeakerClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\SpeakerClient.pdb
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\mscorlib.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\SpeakerClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Core.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Net.Http.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.Json.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Net.Http.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\SpeakerClient.pdb
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\blazor.boot.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\wasm\dotnet.js
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\wasm\dotnet.wasm
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\blazor.webassembly.js
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Mono.WebAssembly.Interop.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Buffers.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Memory.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Text.Json.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.csprojAssemblyReference.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\staticwebassets\SpeakerClient.StaticWebAssets.Manifest.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\staticwebassets\SpeakerClient.StaticWebAssets.xml
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.RazorComponent.input.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\SpeakerList.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\SpeakerClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.TagHelpers.input.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.TagHelpers.output.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.RazorCoreGenerate.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\SpeakerList.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.AssemblyInfoInputs.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.AssemblyInfo.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.RazorTargetAssemblyInfo.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.csproj.CopyComplete
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.pdb
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\blazor\linker.descriptor.xml
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\blazor\linker.typegranularityconfig.xml
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Add.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Add.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Delete.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Edit.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Delete.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Edit.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\SpeakerClient.blazor.config
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\SpeakerClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\SpeakerClient.pdb
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Configuration.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.JSInterop.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\mscorlib.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\SpeakerClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Core.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Net.Http.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.Encodings.Web.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.Json.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Bindings.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Net.Http.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\SpeakerClient.pdb
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\blazor.boot.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\wasm\dotnet.js
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\wasm\dotnet.wasm
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\blazor.webassembly.js
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Mono.WebAssembly.Interop.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Buffers.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Memory.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Text.Json.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.csprojAssemblyReference.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\staticwebassets\SpeakerClient.StaticWebAssets.Manifest.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\staticwebassets\SpeakerClient.StaticWebAssets.xml
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.RazorComponent.input.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Add.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Delete.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Edit.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\SpeakerClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.TagHelpers.input.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.TagHelpers.output.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.RazorCoreGenerate.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Add.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Delete.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Edit.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.AssemblyInfoInputs.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.AssemblyInfo.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.RazorTargetAssemblyInfo.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.csproj.CopyComplete
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.pdb
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\blazor\linker.descriptor.xml
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\blazor\linker.typegranularityconfig.xml
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\SpeakerClient.blazor.config
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\SpeakerClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\SpeakerClient.pdb
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\Mono.WebAssembly.Interop.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\mscorlib.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\SpeakerClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Core.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Net.Http.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\System.Text.Json.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\WebAssembly.Net.Http.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\_bin\SpeakerClient.pdb
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\blazor.boot.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\wasm\dotnet.js
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\wasm\dotnet.wasm
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\dist\_framework\blazor.webassembly.js
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\Mono.WebAssembly.Interop.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Buffers.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Memory.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Text.Json.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.csprojAssemblyReference.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\staticwebassets\SpeakerClient.StaticWebAssets.Manifest.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\staticwebassets\SpeakerClient.StaticWebAssets.xml
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.RazorComponent.input.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Add.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Delete.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Edit.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\RazorDeclaration\SpeakerClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.TagHelpers.input.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.TagHelpers.output.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.RazorCoreGenerate.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Add.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Delete.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Edit.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.AssemblyInfoInputs.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.AssemblyInfo.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.RazorTargetAssemblyInfo.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.csproj.CopyComplete
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\SpeakerClient.pdb
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\blazor\linker.descriptor.xml
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\blazor\linker.typegranularityconfig.xml
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerClient\obj\Debug\netstandard2.1\blazor\blazor.boot.json

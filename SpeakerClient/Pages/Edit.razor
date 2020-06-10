@@ -1,0 +1,53 @@
+@page "/edit/{id}"
+@inject HttpClient httpClient
+@inject NavigationManager NavigationManager
+
+<h1>Edit Speaker</h1>
+
+<EditForm Model="@speaker" OnValidSubmit="@edit" class="form-group">
+  <DataAnnotationsValidator />
+  <ValidationSummary />
+
+   First Name
+  <InputText placeholder="First Name" id="firstName" @bind-Value="@speaker.FirstName" class="form-control"/>
+  <br />
+   Last Name
+  <InputText placeholder="Last Name" id="lastName" @bind-Value="@speaker.LastName" class="form-control"/>
+  <br />
+   Email
+  <InputText placeholder="Email" id="email" @bind-Value="@speaker.Email" class="form-control"/>
+  <br />
+   Phone
+  <InputText placeholder="Phone" id="phone" @bind-Value="@speaker.Phone" class="form-control"/>
+  <br />
+   Area
+  <InputText placeholder="Area" id="areaSpecification" @bind-Value="@speaker.AreaSpecification" class="form-control"/>
+  <br />
+   City
+  <InputText placeholder="City" id="city" @bind-Value="@speaker.City" class="form-control"/>
+  <br />
+   Province
+  <InputText placeholder="Province" id="province" @bind-Value="@speaker.Province" class="form-control"/>
+  <br />
+   Employer
+  <InputText placeholder="Employer" id="employer" @bind-Value="@speaker.Employer" class="form-control"/>
+  <br />
+  <button type="submit" class="btn btn-primary">Submit</button>
+</EditForm>
+<NavLink class="btn btn-success" href="/">Back</NavLink>
+
+@code {
+    [Parameter]
+    public string id { get; set; }
+    Speaker speaker = new Speaker();
+    string baseUrl = "http://localhost:8555";
+    protected override async Task OnInitializedAsync() {
+       speaker = await httpClient.GetJsonAsync<Speaker>($"{baseUrl}/api/Speaker/{id}");
+    }
+
+    private async void edit() {
+        string endpoint = $"{baseUrl}/api/Speaker/{id}";
+        await httpClient.SendJsonAsync(HttpMethod.Put, endpoint, speaker);
+        NavigationManager.NavigateTo("/");
+    }
+}

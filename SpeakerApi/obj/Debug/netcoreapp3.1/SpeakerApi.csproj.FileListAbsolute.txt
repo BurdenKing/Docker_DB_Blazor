@@ -1,0 +1,504 @@
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.exe
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.deps.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.runtimeconfig.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.runtimeconfig.dev.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.pdb
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.csprojAssemblyReference.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\staticwebassets\SpeakerApi.StaticWebAssets.Manifest.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\staticwebassets\SpeakerApi.StaticWebAssets.xml
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.AssemblyInfoInputs.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.AssemblyInfo.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.RazorTargetAssemblyInfo.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.csproj.CopyComplete
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.pdb
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.exe
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.deps.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.runtimeconfig.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.runtimeconfig.dev.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.pdb
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.csprojAssemblyReference.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\staticwebassets\SpeakerApi.StaticWebAssets.Manifest.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\staticwebassets\SpeakerApi.StaticWebAssets.xml
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.AssemblyInfoInputs.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.AssemblyInfo.cs
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.RazorTargetAssemblyInfo.cache
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.csproj.CopyComplete
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.pdb
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\appsettings.Development.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\appsettings.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Properties\launchSettings.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\SpeakerApi.exe
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\SpeakerApi.deps.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\SpeakerApi.runtimeconfig.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\SpeakerApi.runtimeconfig.dev.json
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\SpeakerApi.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\SpeakerApi.pdb
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.AspNetCore.Razor.Language.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Bcl.HashCode.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.CodeAnalysis.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.CodeAnalysis.CSharp.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.CodeAnalysis.Razor.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Data.SqlClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.EntityFrameworkCore.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.EntityFrameworkCore.Design.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Extensions.Caching.Memory.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Extensions.Configuration.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Extensions.Configuration.Binder.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Extensions.DependencyInjection.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Extensions.Logging.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Extensions.Options.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Extensions.Primitives.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.Identity.Client.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\dotnet-aspnet-codegenerator-design.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\MySqlConnector.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Newtonsoft.Json.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\NuGet.Frameworks.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\Pomelo.JsonObject.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\System.Composition.AttributedModel.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\System.Composition.Convention.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\System.Composition.Hosting.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\System.Composition.Runtime.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\System.Composition.TypedParts.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\System.Configuration.ConfigurationManager.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\System.Runtime.Caching.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\System.Security.Cryptography.ProtectedData.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\de\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\es\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\it\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\runtimes\win-arm64\native\sni.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\runtimes\win-x64\native\sni.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\runtimes\win-x86\native\sni.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Term 4\COMP 4870 Full Stack Web App Dev\Assignment\Assignment 2\COMP4870Assignment2\SpeakerApi\dist\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\dist\web.config
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\dist\appsettings.Development.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\dist\appsettings.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\dist\SpeakerApi.deps.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\dist\SpeakerApi.runtimeconfig.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.exe
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.deps.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.runtimeconfig.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.runtimeconfig.dev.json
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\SpeakerApi.pdb
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.csprojAssemblyReference.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\staticwebassets\SpeakerApi.StaticWebAssets.Manifest.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\staticwebassets\SpeakerApi.StaticWebAssets.xml
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.AssemblyInfoInputs.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.AssemblyInfo.cs
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.RazorTargetAssemblyInfo.cache
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.csproj.CopyComplete
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.dll
+C:\Users\Wei-Han\Desktop\bcit\term4\COMP4870\COMP4870Assignment2\SpeakerApi\obj\Debug\netcoreapp3.1\SpeakerApi.pdb

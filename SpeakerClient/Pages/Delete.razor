@@ -1,0 +1,27 @@
+@page "/delete/{id}"
+@inject HttpClient httpClient
+@inject NavigationManager NavigationManager
+
+<h1>Delete</h1>
+@if(speaker != null) {
+<p>Are your sure you want to delete</p>
+<p>@speaker.FirstName @speaker.LastName</p>
+<button type="button" @onclick="@del" class="btn btn-danger">Confirm Delete</button>
+<NavLink class="btn btn-success" href="/">Back</NavLink>
+}
+@code {
+    [Parameter]
+    public string id { get; set; }
+
+    Speaker speaker;
+    string baseUrl = "http://localhost:8555";
+    protected override async Task OnInitializedAsync() {
+       speaker = await httpClient.GetJsonAsync<Speaker>($"{baseUrl}/api/Speaker/{id}");
+    }
+
+    private async void del() {
+      string endpoint = $"{baseUrl}/api/Speaker/{id}";
+      await httpClient.SendJsonAsync(HttpMethod.Delete, endpoint, null);
+      NavigationManager.NavigateTo("/");
+    }
+}

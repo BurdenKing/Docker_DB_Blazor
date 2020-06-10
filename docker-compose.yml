@@ -1,0 +1,44 @@
+version: '3'
+
+volumes:
+    datafiles:
+
+services:
+    db:
+        image: mcr.microsoft.com/mssql/server:2017-CU8-ubuntu    
+        volumes:      
+            - datafiles:/var/opt/mssql/data
+        ports:      
+            - "1433:1433"    
+        restart: always
+        environment:      
+            ACCEPT_EULA: Y      
+            SA_PASSWORD: SqlExpress!
+
+    api:
+        build:
+            context: ./SpeakerApi
+            dockerfile: Dockerfile
+        depends_on: 
+            - db
+        ports:
+            - "8555:80"
+            - "8556:443"
+        restart: always
+        environment: 
+            - DBHOST=db
+            - DBPORT=1433
+            - DBPASSWORD=SqlExpress!
+            - ASPNETCORE_ENVIRONMENT=Development
+    client:
+        build:
+            context: ./SpeakerClient
+            dockerfile: Dockerfile
+        depends_on: 
+            - api
+            - db
+        ports:
+            - "8888:80"
+            - "8889:443"
+        restart: always
+    
